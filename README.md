@@ -1,6 +1,4 @@
-Certainly! Here's a revised README for "QuestionCrafter," a tool I developed to automatically generate multiple-choice questions (MCQs) using natural language processing techniques:
 
----
 
 # QuestionCrafter - Automatic MCQ Generator
 
