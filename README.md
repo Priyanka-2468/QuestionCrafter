@@ -21,7 +21,7 @@ To begin using QuestionCrafter, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/QuestionCrafter.git
+   git clone https://github.com/Priyanka-2468/QuestionCrafter.git
    cd QuestionCrafter
    ```
 
